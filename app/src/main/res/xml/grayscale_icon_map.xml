@@ -315,4 +315,6 @@
     <icon drawable="@drawable/stremio" package="com.stremio.one" name="Stremio" />
     <icon drawable="@drawable/pixel_wallpapers" package="dev.wacko1805.pixel.wallpapers" name="Pixel Walls" />
     <icon drawable="@drawable/hoyolab" package="com.mihoyo.hoyolab" name="HoYoLAB" />
+    <icon drawable="@drawable/ffbeww" package="com.square_enix.android_googleplay.FFBEWW" name="Final Fantasy Brave Exvius" />
+    <icon drawable="@drawable/ffbejp" package="com.square_enix.ffbejpn" name="Final Fantasy Brave Exvius" />
 </icons>
