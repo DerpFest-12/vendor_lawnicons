@@ -241,6 +241,7 @@
     <icon drawable="@drawable/amazon_shopping" package="com.amazon.mShop.android.shopping" name="Amazon Shopping" />
     <icon drawable="@drawable/amazon_shopping" package="in.amazon.mShop.android.shopping" name="Amazon Shopping" />
     <icon drawable="@drawable/strava" package="com.strava" name="Strava" />
+    <icon drawable="@drawable/substratum" package="projekt.substratum" name="substratum" />
     <icon drawable="@drawable/substratum_lite" package="projekt.substratum.lite" name="substratum Lite" />
     <icon drawable="@drawable/sweech" package="com.sweech" name="Sweech" />
     <icon drawable="@drawable/swift_backup" package="org.swiftapps.swiftbackup" name="Swift Backup" />
