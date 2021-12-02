@@ -323,4 +323,7 @@
     <icon drawable="@drawable/hi3tw" package="com.miHoYo.bh3tw" name="Honkai Impact 3rd" />
     <icon drawable="@drawable/ffbeww" package="com.square_enix.android_googleplay.FFBEWW" name="Final Fantasy Brave Exvius" />
     <icon drawable="@drawable/ffbejp" package="com.square_enix.ffbejpn" name="Final Fantasy Brave Exvius" />
+    <icon drawable="@drawable/tachiyomi" package="eu.kanade.tachiyomi" name="Tachiyomi" />
+    <icon drawable="@drawable/bluearchive" package="com.nexon.bluearchive" name="Blue Archive" />
+    <icon drawable="@drawable/bluearchiveJP" package="com.YostarJP.BlueArchive" name="Blue Archive" />
 </icons>
