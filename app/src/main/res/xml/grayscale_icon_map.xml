@@ -316,14 +316,18 @@
     <icon drawable="@drawable/stremio" package="com.stremio.one" name="Stremio" />
     <icon drawable="@drawable/pixel_wallpapers" package="dev.wacko1805.pixel.wallpapers" name="Pixel Walls" />
     <icon drawable="@drawable/hoyolab" package="com.mihoyo.hoyolab" name="HoYoLAB" />
-    <icon drawable="@drawable/gi" package="com.miHoYo.GenshinImpact" name="Genshin Impact" />
-    <icon drawable="@drawable/hi3" package="com.miHoYo.bh3" name="Honkai Impact 3rd" />
-    <icon drawable="@drawable/hi3gb" package="com.miHoYo.bh3global" name="Honkai Impact 3rd" />
-    <icon drawable="@drawable/hi3sea" package="com.miHoYo.bh3oversea" name="Honkai Impact 3rd" />
-    <icon drawable="@drawable/hi3tw" package="com.miHoYo.bh3tw" name="Honkai Impact 3rd" />
-    <icon drawable="@drawable/ffbeww" package="com.square_enix.android_googleplay.FFBEWW" name="Final Fantasy Brave Exvius" />
-    <icon drawable="@drawable/ffbejp" package="com.square_enix.ffbejpn" name="Final Fantasy Brave Exvius" />
+    <icon drawable="@drawable/genshin_impact" package="com.miHoYo.GenshinImpact" name="Genshin Impact" />
+    <icon drawable="@drawable/honkai_impact_3rd" package="com.miHoYo.bh3" name="崩壞3rd" />
+    <icon drawable="@drawable/honkai_impact_3rd" package="com.miHoYo.bh3global" name="Honkai Impact 3rd" />
+    <icon drawable="@drawable/honkai_impact_3rd" package="com.miHoYo.bh3oversea" name="Honkai Impact 3" />
+    <icon drawable="@drawable/honkai_impact_3rd" package="com.miHoYo.bh3tw" name="崩壞3rd" />
+    <icon drawable="@drawable/ffbe" package="com.square_enix.android_googleplay.FFBEWW" name="Final Fantasy Brave Exvius" />
+    <icon drawable="@drawable/ffbe" package="com.square_enix.ffbejpn" name="Final Fantasy Brave Exvius" />
     <icon drawable="@drawable/tachiyomi" package="eu.kanade.tachiyomi" name="Tachiyomi" />
-    <icon drawable="@drawable/bluearchive" package="com.nexon.bluearchive" name="Blue Archive" />
-    <icon drawable="@drawable/bluearchiveJP" package="com.YostarJP.BlueArchive" name="Blue Archive" />
+    <icon drawable="@drawable/blue_archive" package="com.nexon.bluearchive" name="Blue Archive" />
+    <icon drawable="@drawable/blue_archive" package="com.YostarJP.BlueArchive" name="ブルーアーカイブ" />
+    <icon drawable="@drawable/punishing_gray_raven" package="com.kurogame.gplay.punishing.grayraven.en" name="Punishing: Gray Raven" />
+    <icon drawable="@drawable/punishing_gray_raven" package="com.kurogame.haru.aligames" name="战双帕弥什" />
+    <icon drawable="@drawable/punishing_gray_raven" package="com.herogame.gplay.punishing.grayraven.jp" name="パニシング：グレイレイヴン" />
+    <icon drawable="@drawable/punishing_gray_raven" package="com.herogame.gplay.punishing.grayraven.tw" name="戰雙帕彌什：末世科幻3D動作遊戲" />
 </icons>
