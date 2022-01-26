@@ -21,6 +21,7 @@ echo '<?xml version="1.0" encoding="utf-8"?>
     <dimen name="theme_icon_size">24dp</dimen>
 </resources>
 ' > values/dimens.xml
+ln -s ../../../../../../app/src/main/res/values/arrays.xml values/arrays.xml
 
 popd
 echo "PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/lawnicons/overlay" > overlay.mk

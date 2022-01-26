@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
+    <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" name="Calendar" />
+    <icon drawable="@array/grayscale_calendar_icons" package="com.google.android.calendar" name="Calendar" />
+    <icon drawable="@array/grayscale_clock_icons" package="com.google.android.deskclock" name="Clock" />
     <icon drawable="@drawable/aegis_authenticator" package="com.beemdevelopment.aegis" name="Aegis Authenticator" />
     <icon drawable="@drawable/amazon_music" package="com.amazon.mp3" name="Amazon Music" />
     <icon drawable="@drawable/amazon_prime_video" package="com.amazon.avod.thirdpartyclient" name="Amazon Prime Video" />
