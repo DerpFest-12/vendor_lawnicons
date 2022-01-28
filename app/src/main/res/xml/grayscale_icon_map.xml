@@ -26,6 +26,9 @@
     <icon drawable="@drawable/calculator" package="com.oneplus.calculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.sec.android.app.popupcalculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.google.android.calculator" name="Calculator" />
+    <icon drawable="@drawable/fm_radio" package="com.android.fm" name="FM Radio" />
+    <icon drawable="@drawable/fm_radio" package="com.android.fmradio" name="FM Radio" />
+    <icon drawable="@drawable/fm_radio" package="com.caf.fmradio" name="FM Radio" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.camera2" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.camera" name="Camera" />
