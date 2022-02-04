@@ -36,6 +36,7 @@
     <icon drawable="@drawable/fm_radio" package="com.caf.fmradio" name="FM Radio" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.GoogleCamera.mwp83" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.GoogleCamera.Burial16" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.MGC.not.stable" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.camera2" name="Camera" />
