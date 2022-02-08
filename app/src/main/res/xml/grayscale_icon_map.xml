@@ -336,6 +336,7 @@
     <icon drawable="@drawable/ffbe" package="com.square_enix.android_googleplay.FFBEWW" name="Final Fantasy Brave Exvius" />
     <icon drawable="@drawable/ffbe" package="com.square_enix.ffbejpn" name="Final Fantasy Brave Exvius" />
     <icon drawable="@drawable/tachiyomi" package="eu.kanade.tachiyomi" name="Tachiyomi" />
+    <icon drawable="@drawable/tachiyomi" package="eu.kanade.tachiyomi.debug" name="Tachiyomi Preview" />
     <icon drawable="@drawable/blue_archive" package="com.nexon.bluearchive" name="Blue Archive" />
     <icon drawable="@drawable/blue_archive" package="com.YostarJP.BlueArchive" name="ブルーアーカイブ" />
     <icon drawable="@drawable/punishing_gray_raven" package="com.kurogame.gplay.punishing.grayraven.en" name="Punishing: Gray Raven" />
